@@ -1,0 +1,5 @@
+For Minecraft 26.4
+
+This data pack forces the player to place the entire stack of blocks whenever they go to place a block. These blocks will all be placed in a straight line, snapped to 45 degree increments.
+
+Due to the limitations of data packs, there is a lot of unintended behavior with this one. Placing a stack of blocks will sometimes incorrectly identify which block you placed, and instead clone an existing block in the world, so it is not at all hard to dupe items if you are trying to. There is no need to report this as a bug, I am already aware of it. If you are trying to avoid this bug, then when placing a block, try to make sure your crosshair is lined up in such a way that it will be on top of the hitbox of the placed block after it has been placed (ie; if you are placing a button, line up your crosshair with the center of the block before placing so that when the button is placed, you have it highlighted).
