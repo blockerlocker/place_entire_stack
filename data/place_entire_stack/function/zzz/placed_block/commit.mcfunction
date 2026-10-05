@@ -1,0 +1,1 @@
+$execute rotated as e35ad6db-fd01-4f75-b3e6-ca9ce020420e positioned $(x) $(y) $(z) run function place_entire_stack:zzz/placed_block/block_clone_loop

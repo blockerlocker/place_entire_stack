@@ -1,0 +1,1 @@
+execute as @a at @s anchored eyes positioned ^ ^ ^ run function place_entire_stack:zzz/player/tick
