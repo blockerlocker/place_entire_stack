@@ -1,0 +1,7 @@
+{
+    "values": [
+        "#bldp:load",
+        "iris:setup/load",
+        "place_entire_stack:zzz/load"
+    ]
+}

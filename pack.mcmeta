@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Places the entire stack of blocks every time.",
+    "min_format": [
+      122,
+      1
+    ],
+    "max_format": 122
+  }
+}
