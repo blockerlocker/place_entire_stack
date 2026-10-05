@@ -1,4 +1,8 @@
-advancement revoke @s only place_entire_stack:place_block
+advancement revoke @s only place_entire_stack:item_used
+
+execute unless entity @s[tag=place_entire_stack_confirm] run return fail
+
+tag @s remove place_entire_stack_confirm
 
 function bldp:used_item/identify
 function bldp:used_item/reset

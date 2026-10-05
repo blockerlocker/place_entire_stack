@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "placed_block": {
+            "trigger": "placed_block"
+        }
+    },
+    "rewards": {
+        "function": "place_entire_stack:zzz/placed_block/confirm"
+    }
+}

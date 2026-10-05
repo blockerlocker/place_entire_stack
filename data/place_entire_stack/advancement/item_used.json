@@ -1,6 +1,6 @@
 {
     "criteria": {
-        "place_block": {
+        "item_used": {
             "trigger": "item_used_on_block"
         }
     },
