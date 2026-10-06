@@ -569,6 +569,7 @@ execute if score @s bldp.used.fox_spawn_egg matches 1.. run data modify storage 
 execute if score @s bldp.used.friend_pottery_sherd matches 1.. run data modify storage bldp:used_item out set value friend_pottery_sherd
 execute if score @s bldp.used.frog_spawn_egg matches 1.. run data modify storage bldp:used_item out set value frog_spawn_egg
 execute if score @s bldp.used.frogspawn matches 1.. run data modify storage bldp:used_item out set value frogspawn
+execute if score @s bldp.used.frostbite_spawn_egg matches 1.. run data modify storage bldp:used_item out set value frostbite_spawn_egg
 execute if score @s bldp.used.furnace matches 1.. run data modify storage bldp:used_item out set value furnace
 execute if score @s bldp.used.furnace_minecart matches 1.. run data modify storage bldp:used_item out set value furnace_minecart
 execute if score @s bldp.used.ghast_spawn_egg matches 1.. run data modify storage bldp:used_item out set value ghast_spawn_egg
@@ -681,6 +682,9 @@ execute if score @s bldp.used.host_armor_trim_smithing_template matches 1.. run 
 execute if score @s bldp.used.howl_pottery_sherd matches 1.. run data modify storage bldp:used_item out set value howl_pottery_sherd
 execute if score @s bldp.used.husk_spawn_egg matches 1.. run data modify storage bldp:used_item out set value husk_spawn_egg
 execute if score @s bldp.used.ice matches 1.. run data modify storage bldp:used_item out set value ice
+execute if score @s bldp.used.ice_ball matches 1.. run data modify storage bldp:used_item out set value ice_ball
+execute if score @s bldp.used.ice_crystal matches 1.. run data modify storage bldp:used_item out set value ice_crystal
+execute if score @s bldp.used.icicle matches 1.. run data modify storage bldp:used_item out set value icicle
 execute if score @s bldp.used.infested_chiseled_stone_bricks matches 1.. run data modify storage bldp:used_item out set value infested_chiseled_stone_bricks
 execute if score @s bldp.used.infested_cobblestone matches 1.. run data modify storage bldp:used_item out set value infested_cobblestone
 execute if score @s bldp.used.infested_cracked_stone_bricks matches 1.. run data modify storage bldp:used_item out set value infested_cracked_stone_bricks

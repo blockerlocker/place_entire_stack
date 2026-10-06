@@ -569,6 +569,7 @@ scoreboard objectives add bldp.used.fox_spawn_egg minecraft.used:fox_spawn_egg
 scoreboard objectives add bldp.used.friend_pottery_sherd minecraft.used:friend_pottery_sherd
 scoreboard objectives add bldp.used.frog_spawn_egg minecraft.used:frog_spawn_egg
 scoreboard objectives add bldp.used.frogspawn minecraft.used:frogspawn
+scoreboard objectives add bldp.used.frostbite_spawn_egg minecraft.used:frostbite_spawn_egg
 scoreboard objectives add bldp.used.furnace minecraft.used:furnace
 scoreboard objectives add bldp.used.furnace_minecart minecraft.used:furnace_minecart
 scoreboard objectives add bldp.used.ghast_spawn_egg minecraft.used:ghast_spawn_egg
@@ -681,6 +682,9 @@ scoreboard objectives add bldp.used.host_armor_trim_smithing_template minecraft.
 scoreboard objectives add bldp.used.howl_pottery_sherd minecraft.used:howl_pottery_sherd
 scoreboard objectives add bldp.used.husk_spawn_egg minecraft.used:husk_spawn_egg
 scoreboard objectives add bldp.used.ice minecraft.used:ice
+scoreboard objectives add bldp.used.ice_ball minecraft.used:ice_ball
+scoreboard objectives add bldp.used.ice_crystal minecraft.used:ice_crystal
+scoreboard objectives add bldp.used.icicle minecraft.used:icicle
 scoreboard objectives add bldp.used.infested_chiseled_stone_bricks minecraft.used:infested_chiseled_stone_bricks
 scoreboard objectives add bldp.used.infested_cobblestone minecraft.used:infested_cobblestone
 scoreboard objectives add bldp.used.infested_cracked_stone_bricks minecraft.used:infested_cracked_stone_bricks

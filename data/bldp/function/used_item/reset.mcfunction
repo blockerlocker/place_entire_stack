@@ -569,6 +569,7 @@ scoreboard players reset @s bldp.used.fox_spawn_egg
 scoreboard players reset @s bldp.used.friend_pottery_sherd
 scoreboard players reset @s bldp.used.frog_spawn_egg
 scoreboard players reset @s bldp.used.frogspawn
+scoreboard players reset @s bldp.used.frostbite_spawn_egg
 scoreboard players reset @s bldp.used.furnace
 scoreboard players reset @s bldp.used.furnace_minecart
 scoreboard players reset @s bldp.used.ghast_spawn_egg
@@ -681,6 +682,9 @@ scoreboard players reset @s bldp.used.host_armor_trim_smithing_template
 scoreboard players reset @s bldp.used.howl_pottery_sherd
 scoreboard players reset @s bldp.used.husk_spawn_egg
 scoreboard players reset @s bldp.used.ice
+scoreboard players reset @s bldp.used.ice_ball
+scoreboard players reset @s bldp.used.ice_crystal
+scoreboard players reset @s bldp.used.icicle
 scoreboard players reset @s bldp.used.infested_chiseled_stone_bricks
 scoreboard players reset @s bldp.used.infested_cobblestone
 scoreboard players reset @s bldp.used.infested_cracked_stone_bricks
