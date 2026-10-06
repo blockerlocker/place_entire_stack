@@ -2,9 +2,9 @@
   "pack": {
     "description": "Places the entire stack of blocks every time.",
     "min_format": [
-      122,
+      123,
       1
     ],
-    "max_format": 122
+    "max_format": 123
   }
 }
