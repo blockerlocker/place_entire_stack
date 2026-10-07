@@ -1,3 +1,5 @@
+execute if predicate bldp:used_item run function place_entire_stack:zzz/placed_block/main
+
 function iris:get_target
 
 execute as @n[type=marker,tag=iris.targeted_block] at @s unless block ~ ~ ~ #replaceable run function place_entire_stack:zzz/placed_block/position_snap
