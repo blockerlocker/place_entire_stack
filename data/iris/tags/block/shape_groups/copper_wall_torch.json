@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "minecraft:copper_wall_torch",
+            "required": false
+        },
+        {
             "id": "minecraft:redstone_wall_torch",
             "required": false
         },

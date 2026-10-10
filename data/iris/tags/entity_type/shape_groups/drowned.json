@@ -9,6 +9,10 @@
             "required": false
         },
         {
+            "id": "minecraft:frostbite",
+            "required": false
+        },
+        {
             "id": "minecraft:husk",
             "required": false
         },

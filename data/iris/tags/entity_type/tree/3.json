@@ -1,22 +1,6 @@
 {
     "values": [
         {
-            "id": "#iris:shape_groups/goat",
-            "required": false
-        },
-        {
-            "id": "minecraft:guardian",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/hoglin",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/horse",
-            "required": false
-        },
-        {
             "id": "minecraft:iron_golem",
             "required": false
         },
@@ -26,6 +10,10 @@
         },
         {
             "id": "#iris:shape_groups/llama",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/nautilus",
             "required": false
         },
         {
@@ -46,6 +34,26 @@
         },
         {
             "id": "minecraft:ravager",
+            "required": false
+        },
+        {
+            "id": "minecraft:salmon",
+            "required": false
+        },
+        {
+            "id": "minecraft:sniffer",
+            "required": false
+        },
+        {
+            "id": "minecraft:snow_golem",
+            "required": false
+        },
+        {
+            "id": "minecraft:spider",
+            "required": false
+        },
+        {
+            "id": "minecraft:strider",
             "required": false
         }
     ]

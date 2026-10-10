@@ -89,6 +89,10 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_sign",
+            "required": false
+        },
+        {
             "id": "minecraft:purple_banner",
             "required": false
         },

@@ -29,6 +29,10 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_sapling",
+            "required": false
+        },
+        {
             "id": "minecraft:seagrass",
             "required": false
         },

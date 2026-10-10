@@ -57,6 +57,10 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_trapdoor",
+            "required": false
+        },
+        {
             "id": "minecraft:spruce_trapdoor",
             "required": false
         },

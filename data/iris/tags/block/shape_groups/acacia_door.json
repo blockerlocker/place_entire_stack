@@ -57,6 +57,10 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_door",
+            "required": false
+        },
+        {
             "id": "minecraft:spruce_door",
             "required": false
         },

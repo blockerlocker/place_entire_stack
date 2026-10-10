@@ -1,87 +1,15 @@
 {
     "values": [
         {
-            "id": "#iris:shape_groups/kelp",
+            "id": "#iris:shape_groups/end_rod",
             "required": false
         },
         {
-            "id": "minecraft:ladder",
+            "id": "minecraft:chorus_plant",
             "required": false
         },
         {
-            "id": "#iris:shape_groups/lantern",
-            "required": false
-        },
-        {
-            "id": "minecraft:large_amethyst_bud",
-            "required": false
-        },
-        {
-            "id": "minecraft:leaf_litter",
-            "required": false
-        },
-        {
-            "id": "minecraft:lectern",
-            "required": false
-        },
-        {
-            "id": "minecraft:lever",
-            "required": false
-        },
-        {
-            "id": "minecraft:lily_pad",
-            "required": false
-        },
-        {
-            "id": "minecraft:mangrove_propagule",
-            "required": false
-        },
-        {
-            "id": "minecraft:medium_amethyst_bud",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/melon_stem",
-            "required": false
-        },
-        {
-            "id": "minecraft:nether_portal",
-            "required": false
-        },
-        {
-            "id": "minecraft:nether_sprouts",
-            "required": false
-        },
-        {
-            "id": "minecraft:nether_wart",
-            "required": false
-        },
-        {
-            "id": "minecraft:pale_hanging_moss",
-            "required": false
-        },
-        {
-            "id": "minecraft:pale_moss_carpet",
-            "required": false
-        },
-        {
-            "id": "minecraft:piglin_head",
-            "required": false
-        },
-        {
-            "id": "minecraft:piglin_wall_head",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/pink_petals",
-            "required": false
-        },
-        {
-            "id": "#iris:shape_groups/piston",
-            "required": false
-        },
-        {
-            "id": "minecraft:piston_head",
+            "id": "minecraft:torchflower_crop",
             "required": false
         },
         {
@@ -89,11 +17,87 @@
             "required": false
         },
         {
-            "id": "minecraft:pointed_dripstone",
+            "id": "minecraft:beetroots",
             "required": false
         },
         {
-            "id": "minecraft:rail",
+            "id": "#iris:shape_groups/conduit",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/kelp",
+            "required": false
+        },
+        {
+            "id": "minecraft:turtle_egg",
+            "required": false
+        },
+        {
+            "id": "minecraft:sniffer_egg",
+            "required": false
+        },
+        {
+            "id": "minecraft:dried_ghast",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/brain_coral",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/brain_coral_fan",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/brain_coral_wall_fan",
+            "required": false
+        },
+        {
+            "id": "minecraft:sea_pickle",
+            "required": false
+        },
+        {
+            "id": "minecraft:bamboo_sapling",
+            "required": false
+        },
+        {
+            "id": "minecraft:bamboo",
+            "required": false
+        },
+        {
+            "id": "minecraft:scaffolding",
+            "required": false
+        },
+        {
+            "id": "minecraft:grindstone",
+            "required": false
+        },
+        {
+            "id": "minecraft:lectern",
+            "required": false
+        },
+        {
+            "id": "minecraft:bell",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/copper_lantern",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/campfire",
+            "required": false
+        },
+        {
+            "id": "minecraft:sweet_berry_bush",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/crimson_fungus",
+            "required": false
+        },
+        {
+            "id": "minecraft:nether_sprouts",
             "required": false
         }
     ]

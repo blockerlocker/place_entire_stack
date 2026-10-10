@@ -25,6 +25,10 @@
             "required": false
         },
         {
+            "id": "minecraft:golden_dandelion",
+            "required": false
+        },
+        {
             "id": "minecraft:lily_of_the_valley",
             "required": false
         },

@@ -33,7 +33,7 @@
             "required": false
         },
         {
-            "id": "minecraft:blaze",
+            "id": "#iris:shape_groups/blaze",
             "required": false
         },
         {
@@ -46,6 +46,14 @@
         },
         {
             "id": "#iris:shape_groups/breeze_wind_charge",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/camel",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/cat",
             "required": false
         }
     ]

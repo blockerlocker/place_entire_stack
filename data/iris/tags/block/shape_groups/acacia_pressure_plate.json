@@ -45,6 +45,10 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_pressure_plate",
+            "required": false
+        },
+        {
             "id": "minecraft:spruce_pressure_plate",
             "required": false
         },

@@ -73,6 +73,14 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_boat",
+            "required": false
+        },
+        {
+            "id": "minecraft:poplar_chest_boat",
+            "required": false
+        },
+        {
             "id": "minecraft:spruce_boat",
             "required": false
         },

@@ -45,6 +45,10 @@
             "required": false
         },
         {
+            "id": "minecraft:poplar_button",
+            "required": false
+        },
+        {
             "id": "minecraft:spruce_button",
             "required": false
         },

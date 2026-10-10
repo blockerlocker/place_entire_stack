@@ -1,11 +1,11 @@
 {
     "values": [
         {
-            "id": "minecraft:lantern",
+            "id": "minecraft:pointed_dripstone",
             "required": false
         },
         {
-            "id": "minecraft:soul_lantern",
+            "id": "minecraft:sulfur_spike",
             "required": false
         }
     ]
